@@ -10,3 +10,10 @@ Please DO NOT touch this repository in GitHub, as it will affect your Sandbox ex
 
 To learn more about the Sandbox, please visit http://help.learn.co/technical-support/learn-ide-in-browser/ide-in-browser-sandbox.
 1 + 2 // nothing before the `//` is a comment, so it will run; but this comment is just fine -- by the way, the answer is 3
+/*
+ I'm a comment, because I'm inside `/*`.
+ Still a comment.
+ Let's end this comment at the end of this l
+ 
+ alert ("Hello Mom!!!!!!")
+ 
